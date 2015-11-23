@@ -3,7 +3,6 @@ rm(list=ls())
 #hello
 
 
-
 #Part I: Get Set Up
 #Load Packages
 library(RODBC)
@@ -23,8 +22,9 @@ library(maptools)
 library(sqldf)
 library(zipcode)
 library(date)
-
+library(ggplot2)
 library(shiny)
+
 #library(ggmap)
 
 # Get Connected ----------------------------------------------------------
