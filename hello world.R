@@ -12,4 +12,8 @@ runExample("01_hello")
 #1) 
      #Save the server.R and ui.R files to tmoney
 #2)
-     runApp("tmoney")
+    library(shiny)
+    runApp("C:/Users/tpatterson/Documents/GitHub/tmoney/tmoney/App-1")
+    
+    library(shiny)
+    runApp("C:/Users/tpatterson/Documents/GitHub/tmoney/tmoney")
